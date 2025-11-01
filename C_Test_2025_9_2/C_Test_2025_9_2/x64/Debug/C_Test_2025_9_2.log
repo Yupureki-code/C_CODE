@@ -1,0 +1,5 @@
+﻿  SeqList.c
+  test.c
+  正在生成代码...
+E:\C C++ files\c-language\C_Test_2025_9_2\C_Test_2025_9_2\SeqList.c(39,29): warning C4267: “初始化”: 从“size_t”转换到“SLDataType”，可能丢失数据
+  C_Test_2025_9_2.vcxproj -> E:\C C++ files\c-language\C_Test_2025_9_2\x64\Debug\C_Test_2025_9_2.exe

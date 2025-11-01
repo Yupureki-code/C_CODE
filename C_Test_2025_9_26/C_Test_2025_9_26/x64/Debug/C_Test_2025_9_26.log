@@ -1,0 +1,11 @@
+﻿E:\Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(548,5): warning MSB8029: 中间目录或输出目录无法驻留在临时目录下，因为这可能会导致增量生成出现问题。
+  Stack.c
+  test.c
+E:\C C++ files\c-language\C_Test_2025_9_26\C_Test_2025_9_26\Stack.c(22,6): warning C4029: 声明的形参表不同于定义
+E:\C C++ files\c-language\C_Test_2025_9_26\C_Test_2025_9_26\Stack.c(27,8): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“size_t *”
+      E:\C C++ files\c-language\C_Test_2025_9_26\C_Test_2025_9_26\Stack.c(27,8):
+      请考虑在格式字符串中使用“%zd”
+  
+E:\C C++ files\c-language\C_Test_2025_9_26\C_Test_2025_9_26\Stack.c(28,23): warning C4267: “=”: 从“size_t”转换到“STDataType”，可能丢失数据
+  正在生成代码...
+  C_Test_2025_9_26.vcxproj -> E:\C C++ files\c-language\C_Test_2025_9_26\x64\Debug\C_Test_2025_9_26.exe

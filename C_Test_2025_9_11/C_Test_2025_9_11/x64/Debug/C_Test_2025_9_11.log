@@ -1,0 +1,6 @@
+﻿E:\Visual Studio\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(548,5): warning MSB8029: 中间目录或输出目录无法驻留在临时目录下，因为这可能会导致增量生成出现问题。
+  test.c
+E:\C C++ Files\c-language\C_Test_2025_9_11\C_Test_2025_9_11\test.c(88,26): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+E:\C C++ Files\c-language\C_Test_2025_9_11\C_Test_2025_9_11\test.c(100,39): warning C4090: “函数”: 不同的“const”限定符
+E:\C C++ Files\c-language\C_Test_2025_9_11\C_Test_2025_9_11\test.c(100,39): warning C4113: “int (__cdecl *)(void *,void *)”和“_CoreCrtNonSecureSearchSortCompareFunction”的参数列表不同
+  C_Test_2025_9_11.vcxproj -> E:\C C++ Files\c-language\C_Test_2025_9_11\x64\Debug\C_Test_2025_9_11.exe
